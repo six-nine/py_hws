@@ -1,0 +1,20 @@
+┌─(~/study/py/hw_1)─────────────────────────────────────────────────────(vadickozlov@bowser:pts/2)─┐
+└─(01:38:43)──> python3 wc.py                                                        ──(Wed,Nov20)─┘
+aboba
+abobus 23 kdsjhfksd
+ala
+aloha allaaa
+     4     7      43
+┌─(~/study/py/hw_1)─────────────────────────────────────────────────────(vadickozlov@bowser:pts/2)─┐
+└─(01:39:13)──> python3 wc.py < artifacts/long_test.txt                              ──(Wed,Nov20)─┘
+    29   502    3068
+┌─(~/study/py/hw_1)─────────────────────────────────────────────────────(vadickozlov@bowser:pts/2)─┐
+└─(01:39:30)──> python3 wc.py artifacts/*                                            ──(Wed,Nov20)─┘
+    29   502    3068  artifacts/long_test.txt
+    44   150    1712  artifacts/nl_test_bash_dump.txt
+    68   760    4992  artifacts/tail_test_bash_dump.txt
+    13    37     274  artifacts/test.txt
+    19    58    1128  artifacts/wc_test_bash_dump.txt
+  4052 41303  301290  total
+┌─(~/study/py/hw_1)─────────────────────────────────────────────────────(vadickozlov@bowser:pts/2)─┐
+└─(01:39:46)──>

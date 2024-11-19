@@ -1,0 +1,44 @@
+┌─(~/study/py/hw_1)─────────────────────────────────────────────────────(vadickozlov@bowser:pts/2)─┐
+└─(21:00:57)──> nl -b a artifacts/test.txt                                           ──(Tue,Nov19)─┘
+     1  #include <iostream>
+     2  #include <string>
+     3
+     4  int main() {
+     5      std::string name;
+     6
+     7      std::cout << "Enter your name: ";
+     8      std::getline(std::cin, name);
+     9
+    10      std::cout << "Hello, " << name << "! Welcome to the world of C++ programming!" << std::endl;
+    11
+    12      return 0;
+    13  }
+┌─(~/study/py/hw_1)─────────────────────────────────────────────────────(vadickozlov@bowser:pts/2)─┐
+└─(21:01:00)──> python3 nl.py                                                        ──(Tue,Nov19)─┘
+┌─(~/study/py/hw_1)─────────────────────────────────────────────────────(vadickozlov@bowser:pts/2)─┐
+└─(21:01:06)──> python3 nl.py artifacts/test.txt                                     ──(Tue,Nov19)─┘
+     1  #include <iostream>
+     2  #include <string>
+     3
+     4  int main() {
+     5      std::string name;
+     6
+     7      std::cout << "Enter your name: ";
+     8      std::getline(std::cin, name);
+     9
+    10      std::cout << "Hello, " << name << "! Welcome to the world of C++ programming!" << std::endl;
+    11
+    12      return 0;
+    13  }
+┌─(~/study/py/hw_1)─────────────────────────────────────────────────────(vadickozlov@bowser:pts/2)─┐
+└─(21:01:13)──> python3 nl.py                                                        ──(Tue,Nov19)─┘
+aboba
+     1  aboba
+abobus
+     2  abobus
+lalala
+     3  lalala
+ ajshd asjkd sakdjhasjk d askjdas
+     4   ajshd asjkd sakdjhasjk d askjdas
+23874 jkeshrjek fds
+     5  23874 jkeshrjek fds
