@@ -1,0 +1,6 @@
+└─(19:44:22 on master ✭)──> time python3 threads.py
+python3 threads.py  84.08s user 1.07s system 101% cpu 1:23.95 total
+└─(19:46:09 on master ✭)──> time python3 processes.py
+python3 processes.py  78.77s user 0.09s system 975% cpu 8.087 total
+└─(19:53:59 on master ✭)──> time python3 single.py
+python3 single.py  7.98s user 0.00s system 99% cpu 7.989 total

@@ -1,0 +1,31 @@
+└─(22:53:31 on master ✭)──> python3 task3.py
+aboba
+[22:53:34] nobon
+[22:53:34] Received from B: nobon
+lalal
+[22:53:39] ynyny
+[22:53:39] Received from B: ynyny
+laksdhjkla
+asdjkashdk
+asdhkgc
+[22:53:44] ynxfquwxyn
+[22:53:44] Received from B: ynxfquwxyn
+[22:53:49] nfqwxnfuqx
+[22:53:49] Received from B: nfqwxnfuqx
+[22:53:54] nfquxtp
+[22:53:54] Received from B: nfquxtp
+lalal
+[22:54:02] ynyny
+[22:54:02] Received from B: ynyny
+l
+[22:54:19] y
+[22:54:19] Received from B: y
+ll
+[22:54:24] yy
+[22:54:24] Received from B: yy
+aboba
+[22:54:29] nobon
+[22:54:29] Received from B: nobon
+l
+[22:54:34] y
+[22:54:34] Received from B: y
